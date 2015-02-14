@@ -1,3 +1,4 @@
 leeo1116.github.io
 ==================
-html5 Page for Resume
+Resume of Liang Li
+MS in ECE
